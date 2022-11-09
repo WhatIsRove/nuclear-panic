@@ -1,12 +1,12 @@
 # **Nuclear Panic**
 
-## [**Brainstorm**](https://trello.com/b/ZWoWabsV/out-of-control-brainstorm)
+## ~ [Brainstorm](https://trello.com/b/ZWoWabsV/out-of-control-brainstorm)
 
 
-## Project Pitch
+## ~ Project Pitch
 
 
-## Youtube Pitch
+## ~ Youtube Pitch
 
 
-## Project Plan (SCRUM)
+## ~ Project Plan (SCRUM)
