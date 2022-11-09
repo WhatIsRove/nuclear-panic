@@ -1,1 +1,1 @@
-# nuclear-panic.github.io
+# nuclear-panic
