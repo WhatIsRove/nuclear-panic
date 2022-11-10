@@ -10,5 +10,3 @@
 
 
 ## ~ [Project Plan (SCRUM)](https://trello.com/b/kKUHXTV8/nuclear-panic)
-
-## this is a test
