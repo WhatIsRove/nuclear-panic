@@ -10,3 +10,5 @@
 
 
 ## ~ [Project Plan (SCRUM)](https://trello.com/b/kKUHXTV8/nuclear-panic)
+
+## ~ [Burn down chart](https://docs.google.com/spreadsheets/u/2/d/1Hh0pLfllydbca04Y46_y1gcqYsixXwSc5S6Vwrt62u0/edit#gid=0)
