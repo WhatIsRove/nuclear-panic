@@ -17,11 +17,11 @@
 
 ## ======== Continous Assessment 2 ========
 
-## ~ [Narrative Synopsis]()
+## ~ [Narrative Synopsis]
 
-## ~ [Character Profiles]()
+## ~ [Character Profiles]
 
 ## ~ [Level Design](https://wit-my.sharepoint.com/:w:/g/personal/20098619_wit_ie/EdxHWSeW_vFAjzdBO44lY1wBAEF3mGzV43kjxRebvafcKg?e=ilW4ee)
 
 ## ~ [Unity Ink-based Prototype](https://whatisrove.itch.io/nuclear-panic)
-      If the link doesn't work try a different browser.
+      ^ If the link doesn't work try a different browser.
