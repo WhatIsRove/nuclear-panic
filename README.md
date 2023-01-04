@@ -30,3 +30,5 @@
 
 
 ## ~ [Game Itch.io Page](https://whatisrove.itch.io/nuclear-panic-0-3)
+
+## ~ [Game Design Document](https://docs.google.com/document/d/10G85jsUrqM04UcO7KlsKB7qeGdeyHyfC)
